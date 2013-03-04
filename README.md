@@ -1,4 +1,4 @@
-Spotify-puzzles
-===============
+Programming puzzles
+====================
 
-Spotify puzzles
+Solutions to small programming puzzles from various sources.
